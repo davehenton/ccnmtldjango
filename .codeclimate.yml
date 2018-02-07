@@ -1,0 +1,3 @@
+plugins:
+  eslint:
+  channel: "eslint-4"
